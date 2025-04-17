@@ -47,3 +47,153 @@ Through the previously described interactions, 16 features were collected to com
 
 It is important to highlight that the children were gradually introduced to the activities during the data collection process. This approach aimed to provide a more sensitive experience to track the progression or regression of their skills. The inclusion of children without a diagnosis was intended to build a balanced dataset, enabling effective monitoring of functional development.
 Finally, the dataset was organized into three subsets to ensure it could be applied to machine learning models. The validation set represented 20% of the total sample, while the remaining 80% was split into 70% for training and 30% for testing.
+
+## Description of data by children
+
+### Children with ASD
+
+**Child `2ee1f826-4520-4fc7-ae57-9349047a7328`**
+| **Game**              | **Level** | **Sessions** |
+|-----------------------|-----------|--------------|
+| Memory                | Easy      | 14           |
+| Memory                | Hard      | 7            |
+| Memory                | Medium    | 5            |
+| Painting              | Easy      | 11           |
+| Painting              | Hard      | 3            |
+| Pairing with shadows  | Easy      | 8            |
+| Pairing with shadows  | Hard      | 3            |
+| Pairing with shadows  | Medium    | 7            |
+
+**Child `7a59cbed-5b30-4f8e-a365-93b9071dd4b8`**
+| **Game**              | **Level** | **Sessions** |
+|-----------------------|-----------|--------------|
+| Memory                | Easy      | 19           |
+| Memory                | Hard      | 4            |
+| Memory                | Medium    | 4            |
+| Painting              | Easy      | 4            |
+| Painting              | Medium    | 2            |
+| Pairing with shadows  | Easy      | 8            |
+| Pairing with shadows  | Hard      | 2            |
+| Pairing with shadows  | Medium    | 8            |
+
+**Child `98f62a65-4dbf-4377-96ed-9bb90050a6f2`**
+| **Game**              | **Level** | **Sessions** |
+|-----------------------|-----------|--------------|
+| Memory                | Easy      | 13           |
+| Memory                | Medium    | 6            |
+| Painting              | Easy      | 4            |
+| Painting              | Medium    | 16           |
+| Pairing with shadows  | Easy      | 7            |
+| Pairing with shadows  | Hard      | 4            |
+| Pairing with shadows  | Medium    | 6            |
+
+**Child `b54b5fc4-4c3a-4c12-9718-b146a223e59a`**
+| **Game**              | **Level** | **Sessions** |
+|-----------------------|-----------|--------------|
+| Memory                | Easy      | 14           |
+| Memory                | Hard      | 5            |
+| Memory                | Medium    | 8            |
+| Painting              | Easy      | 5            |
+| Painting              | Hard      | 1            |
+| Painting              | Medium    | 4            |
+| Pairing with shadows  | Easy      | 12           |
+| Pairing with shadows  | Hard      | 2            |
+| Pairing with shadows  | Medium    | 14           |
+
+**Child `d351a361-fc42-4d85-94a6-9a571d7ea825`**
+| **Game**              | **Level** | **Sessions** |
+|-----------------------|-----------|--------------|
+| Memory                | Easy      | 11           |
+| Memory                | Medium    | 4            |
+| Painting              | Easy      | 4            |
+| Pairing with shadows  | Easy      | 5            |
+| Pairing with shadows  | Hard      | 3            |
+| Pairing with shadows  | Medium    | 20           |
+
+**Child `f0ea0108-c3e1-471a-92dc-4eeb8be5bf0b`**
+| **Game**              | **Level** | **Sessions** |
+|-----------------------|-----------|--------------|
+| Memory                | Easy      | 7            |
+| Memory                | Hard      | 7            |
+| Memory                | Medium    | 8            |
+| Painting              | Easy      | 6            |
+| Pairing with shadows  | Easy      | 4            |
+| Pairing with shadows  | Hard      | 5            |
+| Pairing with shadows  | Medium    | 6            |
+
+### Children without ASD
+
+**Child `427a121d-cb40-4521-9c73-49467e10e2a0`**
+| **Game**              | **Level** | **Sessions** |
+|-----------------------|-----------|--------------|
+| Memory                | Easy      | 12           |
+| Memory                | Medium    | 1            |
+| Painting              | Easy      | 4            |
+| Pairing with shadows  | Easy      | 9            |
+| Pairing with shadows  | Hard      | 7            |
+| Pairing with shadows  | Medium    | 6            |
+
+**Child `676922bf-d986-43ec-8d42-c9eafc005a19`**
+| **Game**              | **Level** | **Sessions** |
+|-----------------------|-----------|--------------|
+| Memory                | Easy      | 11           |
+| Memory                | Hard      | 5            |
+| Memory                | Medium    | 5            |
+| Painting              | Easy      | 8            |
+| Painting              | Hard      | 1            |
+| Painting              | Medium    | 1            |
+| Pairing with shadows  | Easy      | 9            |
+| Pairing with shadows  | Hard      | 2            |
+| Pairing with shadows  | Medium    | 6            |
+
+**Child `72e9773e-fb52-45dd-be02-8dd133604862`**
+| **Game**              | **Level** | **Sessions** |
+|-----------------------|-----------|--------------|
+| Memory                | Easy      | 19           |
+| Memory                | Hard      | 6            |
+| Memory                | Medium    | 11           |
+| Painting              | Easy      | 7            |
+| Painting              | Hard      | 2            |
+| Painting              | Medium    | 6            |
+| Pairing with shadows  | Easy      | 9            |
+| Pairing with shadows  | Hard      | 6            |
+| Pairing with shadows  | Medium    | 7            |
+
+**Child `b0e37b90-8849-4c84-afce-56f2de2c10da`**
+| **Game**              | **Level** | **Sessions** |
+|-----------------------|-----------|--------------|
+| Memory                | Easy      | 4            |
+| Memory                | Hard      | 3            |
+| Memory                | Medium    | 6            |
+| Painting              | Easy      | 3            |
+| Painting              | Hard      | 5            |
+| Painting              | Medium    | 3            |
+| Pairing with shadows  | Easy      | 3            |
+| Pairing with shadows  | Hard      | 6            |
+| Pairing with shadows  | Medium    | 8            |
+
+**Child `b42b5ed8-8625-4328-8251-6a0d3de64207`**
+| **Game**              | **Level** | **Sessions** |
+|-----------------------|-----------|--------------|
+| Memory                | Easy      | 12           |
+| Memory                | Hard      | 6            |
+| Memory                | Medium    | 9            |
+| Painting              | Easy      | 5            |
+| Painting              | Hard      | 3            |
+| Painting              | Medium    | 2            |
+| Pairing with shadows  | Easy      | 9            |
+| Pairing with shadows  | Hard      | 4            |
+| Pairing with shadows  | Medium    | 9            |
+
+**Child `c568a1a9-c4d1-45f3-a0aa-0719cce0e5ed`**
+| **Game**              | **Level** | **Sessions** |
+|-----------------------|-----------|--------------|
+| Memory                | Easy      | 15           |
+| Memory                | Hard      | 5            |
+| Memory                | Medium    | 7            |
+| Painting              | Easy      | 2            |
+| Painting              | Medium    | 2            |
+| Pairing with shadows  | Easy      | 11           |
+| Pairing with shadows  | Hard      | 2            |
+| Pairing with shadows  | Medium    | 16           |
+
