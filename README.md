@@ -6,6 +6,7 @@ This repository provides the implementation and dataset related to a study focus
 
 - `src/`: Source code for data processing, model training, and evaluation.
 - `data/`: Anonymized dataset used in the study.
+- `figures/`: Graphs and curves resulting from the experiment.
 - `README.md`: Project overview and usage instructions.
 
 ## Data description
